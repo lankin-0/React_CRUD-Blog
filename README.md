@@ -1,7 +1,7 @@
 ## ReactJS CRUD Blog App
 
 React JS CRUD responsive App with React Context, Axios, React Router Dom @5,
-Local JSON-Server, Custom reusable Hooks, date-fns package for date and time....
+Local JSON-Server, Custom reusable Hooks, Search Functionality date-fns package for date and time....
 
 ![Blog_v2 0_Desktop](https://user-images.githubusercontent.com/75909425/211175441-3f07c7f9-f214-4b6f-9d81-05d5be755949.PNG)
 
