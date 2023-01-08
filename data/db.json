@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Post 2",
+      "datetime": "January 08, 2023 1:15:58 AM",
+      "body": "laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occa"
+    },
+    {
+      "id": 3,
+      "title": "Post 1",
+      "datetime": "January 08, 2023 1:17:07 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco "
+    }
+  ]
+}
